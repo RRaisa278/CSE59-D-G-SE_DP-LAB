@@ -1,7 +1,4 @@
-# Your SRS
-Sure Sir. Here is your **final full SRS** for the **Employee Management System**, written in the same structure as your provided demo SRS but corrected as a **database-based system**, not cloud-based. I followed the same major sections from your sample SRS: Preface, Version History, Introduction, Overall Description, System Requirements, System Models, System Evolution, and Appendices. 
 
----
 
 # Software Requirements Specification (SRS)
 
