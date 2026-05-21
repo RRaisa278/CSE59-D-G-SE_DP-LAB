@@ -402,7 +402,7 @@ The sequence diagram should represent the order of interactions among the user i
 
 > * **ENTITY-RELATIONSHIP DIAGRAM**
 
-<img src="images/6. ER Diagram.png" alt="Employee Management System ER Diagram">
+<img src="images/employee_management_high_resolution_erd.png">
 
 The ER diagram includes the main entities of the Employee Management System: Department, Designation, Employee, User, Attendance, Leave Request, Payroll, Performance Review, and Notification. The diagram shows how employees are assigned to departments and designations, how attendance, leave, payroll, and performance records are linked to employees, and how users receive system notifications.
 
